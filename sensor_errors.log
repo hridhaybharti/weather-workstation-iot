@@ -1,0 +1,10 @@
+2025-10-01 11:43:12,169 - ERROR - Failed to publish MQTT message: 4
+2025-10-01 11:43:27,179 - ERROR - Failed to publish MQTT message: 4
+2025-10-01 11:43:42,181 - ERROR - Failed to publish MQTT message: 4
+2025-10-01 11:43:57,183 - ERROR - Failed to publish MQTT message: 4
+2025-10-01 11:44:12,185 - ERROR - Failed to publish MQTT message: 4
+2025-10-01 11:44:27,187 - ERROR - Failed to publish MQTT message: 4
+2025-10-01 11:44:42,189 - ERROR - Failed to publish MQTT message: 4
+2025-10-01 11:44:57,191 - ERROR - Failed to publish MQTT message: 4
+2025-10-01 11:45:12,192 - ERROR - Failed to publish MQTT message: 4
+2025-10-01 13:22:12,912 - INFO - Connected to MQTT broker
